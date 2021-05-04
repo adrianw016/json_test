@@ -1,0 +1,11 @@
+{
+    "mockData": [
+        { "id": "607e88eb7495f74bf46e555d", "name": "Startpage won't load properly in IE11", "email": "test1@email.com", "status": "Open", "priority": "Low" },
+        { "id": "607e88f36147c1088930b446", "name": "Login does not work when Cookies are disabled", "email": "test2@email.com", "status": "In Progress", "priority": "Low" },
+        { "id": "607e88fa0d16d4d3db2b1884", "name": "Page is extremely slow on 3G connectiond", "email": "test3@email.com", "status": "Closed", "priority": "Normal" },
+        { "id": "607e8901c0dd5f45a6827139", "name": "Test description 4", "email": "test4@email.com", "status": "Open", "priority": "Normal" },
+        { "id": "607e89069a85d2bb0b2274bb", "name": "Test description 5", "email": "test5@email.com", "status": "Open", "priority": "High" },
+        { "id": "607e890d3ed3379e735a00cc", "name": "Test description 6", "email": "test6@email.com", "status": "Closed", "priority": "High" },
+        { "id": "607e8915abce45b0d067aa23", "name": "Test description 7", "email": "test7@email.com", "status": "Closed", "priority": "High" }
+    ]
+}
